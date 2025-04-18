@@ -1,0 +1,37 @@
+options:
+  docker: true
+  size: 2x
+definitions:
+  services:
+    docker:
+      memory: 7168
+pipelines:
+  branches:
+    'main':
+      - step:
+          name: Build and push Docker image
+          image: node:20.6.0-bullseye
+          services:
+            - docker
+          caches:
+            - docker
+          size: 2x
+          script:
+            - docker build -t softphone-backend:master .
+            - docker login -u $DOCKERHUB_USERNAME -p $DOCKERHUB_PASSWORD
+            - docker tag softphone-backend:master $DOCKERHUB_USERNAME/softphone-backend:master
+            - docker push $DOCKERHUB_USERNAME/softphone-backend:master
+    'development':
+      - step:
+          name: Build and push Docker image
+          image: node:20.6.0-bullseye
+          services:
+            - docker
+          caches:
+            - docker
+          size: 2x
+          script:
+            - docker build -t softphone-backend:dev .
+            - docker login -u $DOCKERHUB_USERNAME -p $DOCKERHUB_PASSWORD
+            - docker tag softphone-backend:dev $DOCKERHUB_USERNAME/softphone-backend:dev
+            - docker push $DOCKERHUB_USERNAME/softphone-backend:dev

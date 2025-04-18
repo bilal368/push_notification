@@ -1,0 +1,371 @@
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-01-16T04:32:22.044Z"}
+{"level":"error","message":"API call: POST /webDialerLogin","timestamp":"2025-01-16T04:32:22.045Z"}
+{"level":"info","message":"API call: POST /updateUsersToRedis","timestamp":"2025-01-16T04:43:15.187Z"}
+{"level":"info","message":"API call: POST /updateUsersToRedis","timestamp":"2025-01-16T04:43:35.213Z"}
+{"level":"error","message":"Error occurred during update users in redis: Error: Can't add new command when connection is in closed state","timestamp":"2025-01-16T04:43:35.231Z"}
+{"level":"info","message":"API call: POST /updateUsersToRedis","timestamp":"2025-01-16T04:48:27.152Z"}
+{"level":"info","message":"API call: POST /updateUsersToRedis","timestamp":"2025-01-16T04:48:39.806Z"}
+{"level":"info","message":"API call: POST /updateUsersToRedis","timestamp":"2025-01-16T04:48:52.582Z"}
+{"level":"info","message":"API call: POST /updateUsersToRedis","timestamp":"2025-01-16T05:11:08.053Z"}
+{"level":"info","message":"API call: POST /updateUsersToRedis","timestamp":"2025-01-16T05:11:39.780Z"}
+{"level":"error","message":"Error occurred during update users in redis: Error: Can't add new command when connection is in closed state","timestamp":"2025-01-16T05:11:39.787Z"}
+{"level":"info","message":"API call: POST /updateUsersToRedis","timestamp":"2025-01-16T05:12:07.585Z"}
+{"level":"info","message":"API call: POST /updateUsersToRedis","timestamp":"2025-01-16T05:12:31.861Z"}
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-01-16T11:43:05.098Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-16T11:43:13.913Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-16T11:44:16.083Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-16T11:48:23.909Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-16T11:50:21.641Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-16T11:51:30.089Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-16T11:51:31.438Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-16T11:51:58.968Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-16T11:52:00.487Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-16T11:52:01.669Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-16T11:52:15.936Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-20T10:14:09.921Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-20T10:18:06.932Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-20T10:19:41.548Z"}
+{"level":"error","message":"Error occurred during Dialer History retrieval: TypeError: Promise.all(...).reverse is not a function","timestamp":"2025-01-20T10:19:41.960Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-20T10:20:04.262Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-20T10:22:07.866Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-20T11:51:54.441Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-20T12:25:16.061Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-20T12:29:29.400Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-20T12:32:09.997Z"}
+{"level":"error","message":"Error occurred during Dialer History retrieval: responseArray is not defined","timestamp":"2025-01-20T12:32:10.387Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-20T12:33:36.348Z"}
+{"level":"error","message":"Error occurred during Dialer History retrieval: responseArray is not defined","timestamp":"2025-01-20T12:33:36.743Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-20T12:33:52.749Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-20T12:35:42.004Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-21T03:58:24.865Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:12:58.117Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:22:26.669Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:23:35.608Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:24:17.025Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:31:38.600Z"}
+{"level":"error","message":"Error occurred during Dialer History retrieval: webDialer.phoneAddress is not a function","timestamp":"2025-01-21T07:31:38.605Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:32:23.136Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:32:44.181Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:32:46.769Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:32:50.183Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:33:17.451Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:33:19.551Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:40:08.276Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:40:46.281Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:41:48.850Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:42:25.440Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:42:30.314Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:44:00.865Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:45:31.148Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T07:47:32.653Z"}
+{"level":"error","message":"Error occurred during Dialer History retrieval: Unexpected token 'e', \"email:1007\"... is not valid JSON","timestamp":"2025-01-21T07:47:33.378Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T08:21:26.186Z"}
+{"level":"error","message":"Error occurred during Dialer History retrieval: Unexpected end of JSON input","timestamp":"2025-01-21T08:21:26.384Z"}
+{"level":"info","message":"API call: POST /updateUsersToRedis","timestamp":"2025-01-21T08:21:53.108Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T08:23:09.972Z"}
+{"level":"error","message":"Error occurred during Dialer History retrieval: Unexpected end of JSON input","timestamp":"2025-01-21T08:23:10.289Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T08:24:12.400Z"}
+{"level":"error","message":"Error occurred during Dialer History retrieval: Unexpected end of JSON input","timestamp":"2025-01-21T08:24:12.719Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T08:26:28.959Z"}
+{"level":"info","message":"API call: POST /updateUsersToRedis","timestamp":"2025-01-21T08:27:50.197Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T08:30:20.677Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T08:30:56.667Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T08:30:58.474Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T08:31:14.050Z"}
+{"level":"info","message":"API call: POST /updateUsersToRedis","timestamp":"2025-01-21T08:33:55.581Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-21T08:34:28.043Z"}
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-01-21T08:34:41.071Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T08:36:19.944Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T08:36:21.734Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T08:37:46.671Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T08:38:41.903Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T08:38:51.583Z"}
+{"level":"error","message":"Error occurred during Dialer History retrieval: ERR wrong number of arguments for 'hget' command","timestamp":"2025-01-21T08:38:51.770Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T08:39:14.059Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-21T11:50:32.194Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-21T11:54:01.692Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-21T11:57:41.699Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:12:01.346Z"}
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-01-21T12:12:10.595Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:24:33.071Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:24:34.990Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:26:22.633Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:27:37.015Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:28:44.891Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:29:03.485Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:29:40.463Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:30:00.767Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:34:01.075Z"}
+{"level":"info","message":"API call: POST /updateUsersToRedis","timestamp":"2025-01-21T12:37:54.570Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:38:32.541Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:40:39.742Z"}
+{"level":"error","message":"Error occurred during Dialer History retrieval: tenantId is not defined","timestamp":"2025-01-21T12:40:40.327Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:41:06.182Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:42:35.879Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:43:29.514Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:45:06.992Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:45:36.562Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:50:59.626Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:52:07.298Z"}
+{"level":"error","message":"Error occurred during Dialer History retrieval: tenantId1 is not defined","timestamp":"2025-01-21T12:52:15.587Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:53:06.226Z"}
+{"level":"error","message":"Error occurred during Dialer History retrieval: Cannot access 'tenantId' before initialization","timestamp":"2025-01-21T12:53:06.230Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:53:26.851Z"}
+{"level":"error","message":"Error occurred during Dialer History retrieval: Cannot access 'tenantId' before initialization","timestamp":"2025-01-21T12:53:26.854Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:53:39.864Z"}
+{"level":"error","message":"Error occurred during Dialer History retrieval: tenantId1 is not defined","timestamp":"2025-01-21T12:53:49.419Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:54:47.658Z"}
+{"level":"error","message":"Error occurred during Dialer History retrieval: tenantId1 is not defined","timestamp":"2025-01-21T12:54:58.172Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:56:21.253Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T12:59:13.621Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T13:00:39.293Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-21T13:01:20.357Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-22T04:07:37.872Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-22T04:15:40.669Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-22T04:18:13.116Z"}
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-01-22T04:19:09.660Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-22T07:39:15.944Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-22T07:42:09.287Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-22T07:43:43.895Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-22T08:20:13.198Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-22T08:22:17.315Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-22T08:22:38.776Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-22T08:52:10.104Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-22T08:57:08.898Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-01-22T09:05:23.531Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-27T12:24:35.712Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-27T12:24:55.510Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-27T12:25:29.371Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-27T12:26:06.486Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-27T12:26:11.410Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-27T12:28:08.141Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-27T12:28:45.557Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-27T12:35:39.591Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-27T12:39:41.331Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-27T12:39:44.467Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-27T12:40:13.504Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-27T12:40:49.181Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-27T12:41:02.585Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T04:47:57.480Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T04:50:18.662Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T05:01:53.152Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T05:03:33.327Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T05:04:11.917Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T05:47:46.701Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T05:48:21.550Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T05:56:55.089Z"}
+{"level":"error","message":"Error occurred while adding favorites: \"[object Object]\" is not valid JSON","timestamp":"2025-01-29T05:56:57.378Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T05:58:30.555Z"}
+{"level":"error","message":"Error occurred while adding favorites: \"[object Object]\" is not valid JSON","timestamp":"2025-01-29T05:58:32.509Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T05:58:49.971Z"}
+{"level":"error","message":"Error occurred while adding favorites: \"[object Object]\" is not valid JSON","timestamp":"2025-01-29T05:58:51.943Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T05:59:04.751Z"}
+{"level":"error","message":"Error occurred while adding favorites: \"[object Object]\" is not valid JSON","timestamp":"2025-01-29T05:59:06.929Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T05:59:25.751Z"}
+{"level":"error","message":"Error occurred while adding favorites: \"[object Object]\" is not valid JSON","timestamp":"2025-01-29T05:59:27.767Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T05:59:55.350Z"}
+{"level":"error","message":"Error occurred while adding favorites: \"[object Object]\" is not valid JSON","timestamp":"2025-01-29T05:59:57.333Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T06:00:19.836Z"}
+{"level":"error","message":"Error occurred while adding favorites: \"[object Object]\" is not valid JSON","timestamp":"2025-01-29T06:00:23.951Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T06:00:55.936Z"}
+{"level":"error","message":"Error occurred while adding favorites: \"[object Object]\" is not valid JSON","timestamp":"2025-01-29T06:00:58.118Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T06:01:15.285Z"}
+{"level":"error","message":"Error occurred while adding favorites: \"[object Object]\" is not valid JSON","timestamp":"2025-01-29T06:01:17.522Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T06:02:08.126Z"}
+{"level":"error","message":"Error occurred while adding favorites: \"[object Object]\" is not valid JSON","timestamp":"2025-01-29T06:02:10.189Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T06:03:47.293Z"}
+{"level":"error","message":"Error occurred while adding favorites: \"[object Object]\" is not valid JSON","timestamp":"2025-01-29T06:03:52.583Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T06:20:31.519Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T06:20:47.718Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T06:25:18.517Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T06:32:13.250Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T06:32:21.019Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T06:39:52.644Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T06:40:45.239Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T06:40:53.057Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T06:41:04.012Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T06:41:09.056Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T06:41:12.613Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T06:41:15.747Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T06:41:18.853Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T06:41:21.456Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T06:48:52.664Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T06:49:09.486Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T06:49:12.217Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T06:49:27.323Z"}
+{"level":"info","message":"API call: POST /updateUsersToRedis","timestamp":"2025-01-29T06:50:15.765Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T06:50:28.748Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T06:57:06.155Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T09:17:39.973Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T09:18:59.668Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T09:19:11.729Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T09:22:27.990Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-01-29T09:24:14.439Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-01-29T09:24:28.059Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:16:47.909Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:20:01.504Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:20:44.851Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:21:07.033Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:22:45.180Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:23:14.325Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:23:33.542Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:24:43.937Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:25:02.420Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:26:35.674Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:26:37.116Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:27:03.033Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:27:27.039Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:27:29.754Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:28:16.819Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:28:45.405Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:28:47.097Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:28:48.706Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:28:50.745Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:29:01.397Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:29:32.780Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:29:45.071Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:29:50.624Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:29:52.412Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T04:34:49.747Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T05:01:33.783Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T05:01:35.799Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T05:01:52.913Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T05:02:03.651Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T05:12:36.248Z"}
+{"level":"error","message":"Error occurred while fetching customer call count: Cannot read properties of null (reading 'date')","timestamp":"2025-02-03T05:12:36.434Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T05:15:19.409Z"}
+{"level":"error","message":"Error occurred while fetching customer call count: Cannot read properties of null (reading 'date')","timestamp":"2025-02-03T05:15:19.590Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T05:21:40.875Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-03T06:04:29.573Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-04T03:37:16.671Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-04T03:38:36.752Z"}
+{"level":"error","message":"Error occurred while fetching customer call count: dateString.substring is not a function","timestamp":"2025-02-04T03:38:36.937Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-04T03:38:38.664Z"}
+{"level":"error","message":"Error occurred while fetching customer call count: dateString.substring is not a function","timestamp":"2025-02-04T03:38:38.847Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-04T03:39:20.986Z"}
+{"level":"error","message":"Error occurred while fetching customer call count: dateString.substring is not a function","timestamp":"2025-02-04T03:39:21.162Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-04T03:40:54.969Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-04T03:42:31.787Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-04T05:33:20.505Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-04T05:34:12.637Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-04T05:46:40.308Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-04T05:47:31.148Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-04T05:48:45.067Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-04T05:50:37.678Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-04T05:57:16.369Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-04T05:57:21.348Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-04T05:58:12.400Z"}
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-02-04T06:05:49.459Z"}
+{"level":"error","message":"Error occurred during login: ReferenceError: fsDomain is not defined","timestamp":"2025-02-04T06:05:49.875Z"}
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-02-04T06:06:05.662Z"}
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-02-04T06:06:57.473Z"}
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-02-04T06:08:17.577Z"}
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-02-04T06:08:25.156Z"}
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-02-04T06:08:27.225Z"}
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-02-04T06:08:50.968Z"}
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-02-04T06:14:16.886Z"}
+{"level":"info","message":"API call: POST /updateUsersToRedis","timestamp":"2025-02-04T06:15:22.429Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-05T11:14:47.493Z"}
+{"level":"error","message":"Error parsing Redis data: \"[object Object]\" is not valid JSON","timestamp":"2025-02-05T11:14:47.901Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-05T11:15:43.504Z"}
+{"level":"error","message":"Error parsing Redis data: \"[object Object]\" is not valid JSON","timestamp":"2025-02-05T11:15:44.528Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-05T11:16:38.056Z"}
+{"level":"error","message":"Error parsing Redis data: \"[object Object]\" is not valid JSON","timestamp":"2025-02-05T11:16:38.551Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-05T11:17:07.851Z"}
+{"level":"error","message":"Error parsing Redis data: \"[object Object]\" is not valid JSON","timestamp":"2025-02-05T11:17:08.030Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-05T11:18:21.093Z"}
+{"level":"error","message":"Error parsing Redis data: \"[object Object]\" is not valid JSON","timestamp":"2025-02-05T11:18:21.279Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-05T11:18:33.510Z"}
+{"level":"error","message":"Error parsing Redis data: \"[object Object]\" is not valid JSON","timestamp":"2025-02-05T11:18:33.787Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-05T11:19:16.579Z"}
+{"level":"error","message":"Error parsing Redis data: \"[object Object]\" is not valid JSON","timestamp":"2025-02-05T11:19:16.962Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-05T11:21:24.805Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-05T12:13:42.609Z"}
+{"level":"error","message":"Error parsing Redis data: \"[object Object]\" is not valid JSON","timestamp":"2025-02-05T12:13:42.801Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-05T12:15:02.329Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-05T12:17:57.352Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-05T12:41:25.571Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-05T12:51:02.971Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T03:42:23.447Z"}
+{"level":"error","message":"Error fetching presence status: ERR wrong number of arguments for 'hget' command","timestamp":"2025-02-06T03:42:23.629Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T03:43:41.935Z"}
+{"level":"error","message":"Error fetching presence status: ERR wrong number of arguments for 'hget' command","timestamp":"2025-02-06T03:43:42.101Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T03:43:51.189Z"}
+{"level":"error","message":"Error fetching presence status: ERR wrong number of arguments for 'hget' command","timestamp":"2025-02-06T03:43:51.356Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T03:44:12.838Z"}
+{"level":"error","message":"Error fetching presence status: ERR wrong number of arguments for 'hget' command","timestamp":"2025-02-06T03:44:13.016Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T03:44:27.830Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T04:10:54.808Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T04:11:02.717Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T05:50:32.037Z"}
+{"level":"error","message":"Error fetching presence status: ERR wrong number of arguments for 'hget' command","timestamp":"2025-02-06T05:50:32.228Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T06:06:25.812Z"}
+{"level":"error","message":"Error fetching presence status: Cannot convert undefined or null to object","timestamp":"2025-02-06T06:06:26.003Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T06:06:50.552Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T06:10:54.269Z"}
+{"level":"error","message":"Error fetching presence status: redisCallData.HGET is not a function","timestamp":"2025-02-06T06:10:54.302Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T06:14:04.011Z"}
+{"level":"error","message":"Error fetching presence status: redisCallData.HGET is not a function","timestamp":"2025-02-06T06:14:04.014Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T06:18:45.609Z"}
+{"level":"error","message":"Error fetching presence status: ERR wrong number of arguments for 'hget' command","timestamp":"2025-02-06T06:18:45.785Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T06:19:08.679Z"}
+{"level":"error","message":"Error fetching presence status: ERR wrong number of arguments for 'hget' command","timestamp":"2025-02-06T06:19:08.859Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T06:19:25.047Z"}
+{"level":"error","message":"Error fetching presence status: ERR wrong number of arguments for 'hget' command","timestamp":"2025-02-06T06:19:25.233Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T06:24:08.473Z"}
+{"level":"error","message":"Error fetching presence status: ERR wrong number of arguments for 'hget' command","timestamp":"2025-02-06T06:24:08.702Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T06:24:29.174Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T06:27:10.356Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T06:30:29.340Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T06:30:58.459Z"}
+{"level":"error","message":"Error fetching presence status: redisCallData.HGET is not a function","timestamp":"2025-02-06T06:30:58.462Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T06:32:43.897Z"}
+{"level":"error","message":"Error fetching presence status: redisCallData.HGET is not a function","timestamp":"2025-02-06T06:32:43.901Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T06:33:19.661Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T07:39:17.679Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T08:06:29.263Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T08:15:39.746Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-06T08:17:31.323Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-07T05:17:59.052Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-02-07T06:31:47.664Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-02-07T06:39:09.617Z"}
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-02-07T06:39:29.265Z"}
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-02-07T06:39:31.590Z"}
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-02-07T06:39:42.643Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-02-07T06:39:50.396Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-02-07T06:40:09.579Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-02-07T06:40:43.170Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-10T06:13:58.954Z"}
+{"level":"error","message":"Error occurred while fetching customer call count: redisCallData.get is not a function","timestamp":"2025-02-10T06:13:58.959Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-10T06:15:34.939Z"}
+{"level":"error","message":"Error occurred while fetching customer call count: redisClient.get is not a function","timestamp":"2025-02-10T06:15:34.940Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-10T06:15:36.457Z"}
+{"level":"error","message":"Error occurred while fetching customer call count: redisClient.get is not a function","timestamp":"2025-02-10T06:15:36.458Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-10T06:15:38.075Z"}
+{"level":"error","message":"Error occurred while fetching customer call count: redisClient.get is not a function","timestamp":"2025-02-10T06:15:38.076Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-10T06:19:19.731Z"}
+{"level":"error","message":"Error occurred while fetching customer call count: redisClient.get is not a function","timestamp":"2025-02-10T06:19:19.733Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-10T06:20:47.147Z"}
+{"level":"error","message":"Error occurred while fetching customer call count: redisCallData.get is not a function","timestamp":"2025-02-10T06:20:47.149Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-10T06:23:09.085Z"}
+{"level":"error","message":"Error occurred while fetching customer call count: Cannot read properties of undefined (reading 'get')","timestamp":"2025-02-10T06:23:09.088Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-10T06:23:11.054Z"}
+{"level":"error","message":"Error occurred while fetching customer call count: Cannot read properties of undefined (reading 'get')","timestamp":"2025-02-10T06:23:11.055Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-10T06:23:49.432Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-10T06:23:52.476Z"}
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-02-10T06:24:30.197Z"}
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-02-10T06:24:34.814Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-02-10T06:24:42.595Z"}
+{"level":"info","message":"API call: POST /updateUsersToRedis","timestamp":"2025-02-10T06:25:07.565Z"}
+{"level":"info","message":"API call: POST /phoneAddress","timestamp":"2025-02-10T06:25:30.651Z"}
+{"level":"info","message":"API call: POST /countCalls","timestamp":"2025-02-10T06:25:47.321Z"}
+{"level":"info","message":"API call: POST /addFavorite","timestamp":"2025-02-10T06:25:54.618Z"}
+{"level":"info","message":"API call: POST /fetchPresenceStatus","timestamp":"2025-02-10T06:26:19.767Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-02-10T08:02:04.335Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-02-10T09:19:08.920Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-02-10T09:25:49.710Z"}
+{"level":"error","message":"Error occurred during Dialer History retrieval: groupedData is not defined","timestamp":"2025-02-10T09:25:50.289Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-02-10T09:25:53.433Z"}
+{"level":"error","message":"Error occurred during Dialer History retrieval: groupedData is not defined","timestamp":"2025-02-10T09:25:54.007Z"}
+{"level":"info","message":"API call: POST /callHistory","timestamp":"2025-02-10T09:26:20.747Z"}
+{"level":"info","message":"API call: POST /webDialerLogin","timestamp":"2025-02-17T08:05:54.476Z"}
